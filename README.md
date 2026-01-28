@@ -1,6 +1,6 @@
 # DevLink
 
-O DevLink é uma aplicação focada em criar links para redes sociais e também outros tipos de links. O intuito é criar uma árvore de link(Linktree) onde o usuário consegue disponibilizar seus diversos links.
+O DevLink é uma aplicação focada em criar links para redes sociais e também outros tipos de links. O intuito é criar uma árvore de link(Linktree) onde o usuário consiga disponibilizar seus diversos links.
 
 ## Índice
 
