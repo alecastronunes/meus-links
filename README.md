@@ -10,9 +10,33 @@ O DevLink é uma aplicação focada em criar links para redes sociais e também 
 
 ## Sobre
 
-O propósito desse projeto foi que eu pudesse ter uma plataforma onde eu pudesse criar e armazenar meus links de redes sociais para utilizá-los com mais rapidez quando eu precisasse. Após o login na plataforma, é carregado a página de admin, onde é feito a criação dos links. Nessa página é possível inserir o nome do link,url do link, definir com do texto e também cor de fundo do link. Após clicar em cadastrar o link é criado e disponibilizado logo a baixo, juntamente com um botão de "delete".
+Este projeto foi desenvolvido com o objetivo de criar uma plataforma simples e eficiente para gerenciamento de links de redes sociais, permitindo armazená-los e acessá-los de forma rápida sempre que necessário.
 
-Na página de Redes Sociais é possível inserir os links dos ícones de redes sociais através de três inputs disponíveis, cada com um seus respectivos nomes. Após salvar o link, clicando na página de home é possível visualizar todos os links criados com as cores que foram pré-definidas. 
+A aplicação foi construída utilizando Vite, React com TypeScript, Tailwind CSS e Firebase, sendo este último responsável pela persistência e listagem dos dados.
+
+Após realizar o login, o usuário é direcionado para a área administrativa (Admin), onde é possível criar e gerenciar links personalizados. Nessa seção, o usuário pode definir:
+
+Nome do link
+
+URL
+
+Cor do texto
+
+Cor de fundo
+
+Ao cadastrar um novo link, ele é imediatamente exibido na interface, acompanhado de um botão para exclusão, permitindo um gerenciamento simples e intuitivo.
+
+Além disso, a aplicação conta com uma página dedicada às Redes Sociais, onde é possível cadastrar os links dos ícones de redes sociais por meio de inputs específicos para cada plataforma. Após salvar essas informações, todos os links criados podem ser visualizados na página inicial (Home), respeitando as cores previamente configuradas.
+
+Este projeto foi fundamental para consolidar conhecimentos em componentização, tipagem com TypeScript, estilização com Tailwind e integração com o Firebase, além de reforçar boas práticas no desenvolvimento de aplicações front-end modernas.
+
+## 📚 Principais Aprendizados
+
+- Utilização do React com TypeScript para maior segurança e escalabilidade
+- Criação de componentes reutilizáveis
+- Estilização moderna e responsiva com Tailwind CSS
+- Integração com Firebase para autenticação e persistência de dados
+- Organização de rotas e estados da aplicação
 
 ## Instalação
 
@@ -43,4 +67,4 @@ npm run dev
 
 Alexandre Castro - [acnunes.dev@gmail.com](acnunes.dev@gmail.com)
 
-Link para o projeto: [https://github.com/seu-usuario/seu-repositorio](https://github.com/seu-usuario/seu-repositorio)
+Link para o projeto: [https://meus-links-six-ebon.vercel.app/](https://meus-links-six-ebon.vercel.app/)
